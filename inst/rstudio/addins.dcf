@@ -1,4 +1,4 @@
 Name: Insert Replacement Pipe
 Description: Inserts %<>% Pipe Operator
-Binding: insert_lhsrhs_pipe
+Binding: insert_LHSRHS_addin
 Interactive: false
