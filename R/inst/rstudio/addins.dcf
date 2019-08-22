@@ -1,0 +1,4 @@
+Name: Insert Replacement Pipe
+Description: Inserts %<>% Pipe Operator
+Binding: insert_lhsrhs_pipe
+Interactive: false
